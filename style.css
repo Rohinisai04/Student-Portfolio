@@ -255,6 +255,21 @@ nav a:hover{
 .top-button:hover{
     background-color: goldenrod;
 }
+#Resume {
+    height:200px;
+    
+
+}
+.download-button{
+    background-color: #0f0c29;
+    color:#fff;
+    padding: 0.5 rem 1 rem;
+    text-decoration: none;
+    border-radius: 20px;
+    display:inline-block;
+    margin-top: 10px;
+    
+}
 
 
 
